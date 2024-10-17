@@ -4,6 +4,8 @@
         "type_traits": "cpp",
         "iostream": "cpp",
         "string": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "chrono": "cpp",
+        "thread": "cpp"
     }
 }
